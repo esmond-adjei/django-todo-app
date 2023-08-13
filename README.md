@@ -62,3 +62,10 @@ python3 manage.py runserver
 username: macberry
 password: whatdoyoumean
 ```
+
+---
+
+# CHECK OUT THESE ALSO
+
+- [React Todo App](https://github.com/esmond-adjei/react-todo)
+- [React Calculator](https://react-calculator-ruby-iota.vercel.app/)
