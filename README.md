@@ -59,7 +59,6 @@ python3 manage.py runserver
 5. Login with this credential
 
 ```
-username: xmon
-password: iamesmond
-// 😀 It doesn't matter, you're not esmond.
+username: macberry
+password: whatdoyoumean
 ```
